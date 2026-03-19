@@ -98,11 +98,3 @@ Based on feature importances and dataset patterns:
 6. **temperature (7.63%)** - Tropical: banana, papaya (>25°C); cooler: apple (<25°C).
 7. **ph (5.39%)** - Soil acidity: coffee acidic (low pH); others neutral 6-7.
 
-**Usage**: Run `python p2.py` to train model, view report, confusion matrix, and feature importances.
-
-## Future Improvements
-
-- Try other models (SVM, Gradient Boosting already imported).
-- Hyperparameter tuning.
-- Cross-validation.
-- Deployment as web app for farmer input.
